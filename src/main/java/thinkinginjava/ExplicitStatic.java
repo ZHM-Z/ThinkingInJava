@@ -1,5 +1,10 @@
 package thinkinginjava;
 
+/**
+ * 显示静态初始化
+ * @author Zhouming
+ *
+ */
 class Cup {
 	Cup(int marker) {
 		System.out.println("Cup (" + marker + ")");
