@@ -2,6 +2,7 @@ package thinkinginjava;
 
 /**
  * 显示静态初始化
+ * 
  * @author Zhouming
  *
  */
